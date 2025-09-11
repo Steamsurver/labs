@@ -6,7 +6,7 @@ arr = np.array([2, 7, 13, 105])
 print("Созданный массив:", arr)
 print("Размер всего массива (байт):", arr.nbytes)
 
-path = "E:\\labProjects\\pythonProject\\venv\\output\\";
+path = "E:\\labProjects\\pythonProjects\\venv\\output\\";
 np.savetxt(path+'array.txt', arr, fmt='%d')
 print("Массив сохранен в текстовый файл 'array.txt'")
 np.save(path+'array.npy', arr)
