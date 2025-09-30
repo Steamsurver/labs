@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40sp"
+        android:autofillHints=""
+        android:hint=" "
+        android:inputType="text" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/button_black_text"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Черный текст"
+            android:background="@color/purple_500"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"/>
+
+        <Button
+            android:id="@+id/button_red_text"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Красный текст"
+            android:background="@color/purple_500"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/button_8sp_size"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Размер-8SP"
+            android:background="@color/purple_500"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"/>
+
+        <Button
+            android:id="@+id/button_24sp_size"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Размер-24SP"
+            android:background="@color/purple_500"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/button_white_background"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Белый фон"
+            android:background="@color/purple_500"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"/>
+
+        <Button
+            android:id="@+id/button_yellow_background"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Желтый фон"
+            android:background="@color/purple_500"
+            android:textColor="#FFFFFF"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
