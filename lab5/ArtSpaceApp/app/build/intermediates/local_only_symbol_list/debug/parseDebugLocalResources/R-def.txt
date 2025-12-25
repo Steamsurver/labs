@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable apple
+drawable hunt
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable mem
+drawable night
+drawable winter
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_next
+string button_prev
+string pic1AuthorName
+string pic1Title
+string pic2AuthorName
+string pic2Title
+string pic3AuthorName
+string pic3Title
+string pic4AuthorName
+string pic4Title
+string pic5AuthorName
+string pic5Title
+style Theme.ArtSpaceApp
+xml backup_rules
+xml data_extraction_rules
