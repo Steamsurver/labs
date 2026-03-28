@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee26d316-4519-4fa1-ade8-3fb0873d0bba" name="Изменения" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/src/main/java/com/example/artspaceapp/ui/AppScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/src/main/java/com/example/artspaceapp/ui/AppUIState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/src/main/java/com/example/artspaceapp/ui/AppViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/androidTest/java/com/example/activitylifecycle/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/java/com/example/activitylifecycle/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/java/com/example/activitylifecycle/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/java/com/example/activitylifecycle/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/java/com/example/activitylifecycle/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/app/src/test/java/com/example/activitylifecycle/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActivityLifecycle/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic-android-kotlin-compose-training-dessert-clicker-starter/app/src/main/java/com/example/dessertclicker/ui/ClickerScreen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic-android-kotlin-compose-training-dessert-clicker-starter/app/src/main/java/com/example/dessertclicker/ui/ClickerUIState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic-android-kotlin-compose-training-dessert-clicker-starter/app/src/main/java/com/example/dessertclicker/ui/ClickerViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/unscramble/ui/GameUiState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/unscramble/ui/GameViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/unscramble/ui/test/GameViewModelTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/src/main/java/com/example/artspaceapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/app/src/main/java/com/example/artspaceapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/ArtSpaceApp/gradle/libs.versions.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=E:\Android\AVD\Medium_Phone.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="35FDIcU2agXdkEKtkxHEo3tsSTr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "Gradle.GameViewModelTest.executor": "Run",
+    "Gradle.GameViewModelTest.gameViewModel_CorrectWordGuessed_ScoreUpdatedAndErrorFlagUnset.executor": "Run",
+    "Gradle.GameViewModelTest.gameViewModel_IncorrectGuess_ErrorFlagSet.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "mob__dev",
+    "last_opened_file_path": "E:/labProjects/gitLabs/labs/lab6/basic-android-kotlin-compose-training-unscramble-starter"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.GameViewModelTest.gameViewModel_IncorrectGuess_ErrorFlagSet">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Unscramble.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameViewModelTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.unscramble.ui.test.GameViewModelTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameViewModelTest.gameViewModel_CorrectWordGuessed_ScoreUpdatedAndErrorFlagUnset" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.unscramble.ui.test.GameViewModelTest.gameViewModel_CorrectWordGuessed_ScoreUpdatedAndErrorFlagUnset&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameViewModelTest.gameViewModel_IncorrectGuess_ErrorFlagSet" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.example.unscramble.ui.test.GameViewModelTest.gameViewModel_IncorrectGuess_ErrorFlagSet&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GameViewModelTest.gameViewModel_IncorrectGuess_ErrorFlagSet" />
+        <item itemvalue="Gradle.GameViewModelTest.gameViewModel_CorrectWordGuessed_ScoreUpdatedAndErrorFlagUnset" />
+        <item itemvalue="Gradle.GameViewModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Задача по умолчанию">
+      <changelist id="ee26d316-4519-4fa1-ade8-3fb0873d0bba" name="Изменения" comment="" />
+      <created>1762696847992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762696847992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.unscramble">
+          <value>
+            <CheckInfo lastCheckTimestamp="1762783841506" />
+          </value>
+        </entry>
+        <entry key="com.example.unscramble">
+          <value>
+            <CheckInfo lastCheckTimestamp="1762783841506" />
+          </value>
+        </entry>
+        <entry key="com.example.unscramble.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1762783833893" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

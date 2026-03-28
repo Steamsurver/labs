@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="pic1AuthorName">Сальвадор Дали (1931)</string>string>
+    <string name="pic1Title">Постоянство памяти</string>string>
+    <string name="pic2AuthorName">Рене Магритт (1964)</string>string>
+    <string name="pic2Title">Сын человеческий</string>string>
+    <string name="pic3AuthorName">Рембрандт (1642)</string>string>
+    <string name="pic3Title">Ночной дозор</string>string>
+    <string name="pic4AuthorName">Исаак Левитан (1880)</string>string>
+    <string name="pic4Title">Осень. Охотник</string>string>
+    <string name="pic5AuthorName">Иван Айвазовский (1876)</string>string>
+    <string name="pic5Title">Зимний пейзаж</string>string>
+    <string name="button_prev">Previous</string>string>
+    <string name="button_next">Next</string>string>
+</resources>

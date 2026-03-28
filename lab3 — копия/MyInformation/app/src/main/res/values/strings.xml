@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="user_name">Full name</string>
+    <string name="title">Title</string>
+    <string name="user_phone">- 7 999–999–99–99</string>
+    <string name="user_social_media">- @socialmediahandle</string>
+    <string name="user_mail">- email@domain.com</string>
+</resources>
